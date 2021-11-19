@@ -1,4 +1,4 @@
-from enum import unique
+#from enum import unique
 from django.db import models
 
 class Category(models.Model):
